@@ -1,0 +1,19 @@
+/* question5 css */
+h1{
+    text-align: center;
+padding-top: 5px;
+}
+div{
+    background-color: crimson;
+    width: 50%;
+    height: 50px;
+    margin-top: 10%;
+    margin-left: 25%;
+    border-radius: 10px;
+}
+h1:hover{
+    color: white;
+}
+div:hover{
+    background-color: cadetblue;
+}
